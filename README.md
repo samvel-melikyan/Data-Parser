@@ -31,39 +31,16 @@ Writer: The name of the article's author.
 Text: A brief excerpt from the article.
 
 Example Data in Excel:
-<body>
-  <table border="1">
-    <thead>
-      <tr>
-        <th>Title</th>
-        <th>Date</th>
-        <th>Category</th>
-        <th>Writer</th>
-        <th>Text</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>My Favorite Films of 2025</td>
-        <td>2025-02-16</td>
-        <td>Review</td>
-        <td>John Doe</td>
-        <td>A deep dive into the films that made 2025 a standout year for cinema...</td>
-      </tr>
-      <tr>
-        <td>Best Cinematic Moments</td>
-        <td>2025-02-15</td>
-        <td>List</td>
-        <td>Jane Smith</td>
-        <td>Here are the top 10 cinematic moments that defined this year...</td>
-      </tr>
-      <tr>
-        <td>A Look Back at 2024's Hits</td>
-        <td>2025-02-14</td>
-        <td>Review</td>
-        <td>Michael Lee</td>
-        <td>Reflecting on the hits and misses from last year in the film industry...</td>
-      </tr>
-    </tbody>
-  </table>
-</body>
+### Explanation:
+- The table is formatted using **Markdown** syntax, which will display neatly when rendered in GitHub or similar markdown readers.
+- The columns are separated by vertical bars (`|`) and the header row is followed by a separator line with dashes (`-`).
+
+This will create a properly formatted table in your `README.md` file, as shown below:
+
+| Title                          | Date       | Category | Writer       | Text                                      |
+|--------------------------------|------------|----------|--------------|-------------------------------------------|
+| My Favorite Films of 2025      | 2025-02-16 | Review   | John Doe     | A deep dive into the films that made 2025 a standout year for cinema... |
+| Best Cinematic Moments         | 2025-02-15 | List     | Jane Smith   | Here are the top 10 cinematic moments that defined this year... |
+| A Look Back at 2024's Hits     | 2025-02-14 | Review   | Michael Lee  | Reflecting on the hits and misses from last year in the film industry... |
+
+This is the correct Markdown formatting for your table to appear visually structured in the `README.md` file. Let me know if you need anything else!
