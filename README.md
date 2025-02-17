@@ -13,11 +13,11 @@ This Python script is used to scrape articles from the Letterboxd journal archiv
 
 The output Excel file (articles.xlsx) will contain the following columns:
 
-Title: The title of the article.
-Date: The publication date of the article (in YYYY-MM-DD format).
-Category: The category of the article (e.g., review, list).
-Writer: The name of the article's author.
-Text: A brief excerpt from the article.
+- Title: The title of the article.
+- Date: The publication date of the article (in YYYY-MM-DD format).
+- Category: The category of the article (e.g., review, list).
+- Writer: The name of the article's author.
+- Text: A brief excerpt from the article.
 
   
 ## Requirements
