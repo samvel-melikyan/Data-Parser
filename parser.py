@@ -56,11 +56,7 @@ class Parser:
 
 
 
-
-
-url = "https://letterboxd.com/journal/archive/"
 data =  Parser()
 data.write_data()
-# print(data.take_data_from_web())
 
 
