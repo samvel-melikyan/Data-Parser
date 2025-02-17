@@ -29,7 +29,3 @@ Date: The publication date of the article (in YYYY-MM-DD format).
 Category: The category of the article (e.g., review, list).
 Writer: The name of the article's author.
 Text: A brief excerpt from the article.
-
-Example Data in Excel:
-
-![exel file](https://github.com/samvel-melikyan/Data-Parser/blob/main/result%20example/Screenshot%202025-02-18%20012144.jpg)
